@@ -1,0 +1,19 @@
+{
+  "name": "harry33cli",
+  "version": "1.0.1",
+  "description": "a cli helps you create vue2.6 project",
+  "main": "index.js",
+  "bin": {
+    "harry": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli"],
+  "author": "harry",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
